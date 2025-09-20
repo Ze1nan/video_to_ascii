@@ -1,0 +1,6 @@
+pydantic
+moviepy
+playsound
+tqdm
+pillow
+opencv-python
