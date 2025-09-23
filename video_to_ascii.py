@@ -45,7 +45,6 @@ class Config(BaseModel):
             ',': 50,
             '.': 20,
         }
-    
     @field_validator('resolution')
     @classmethod
     def validate_resolution(cls, v):

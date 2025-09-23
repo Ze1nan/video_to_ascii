@@ -37,3 +37,13 @@ python video_to_ascii.py -v path/to/video.mp4 -s "@:200,+:100,-:75" --max-width 
     - tqdm
     - Pillow
     - opencv-python
+
+### Скриншоты
+<p float="left">
+    <image src="assets/github/example1.png" width="49%">
+    <image src="assets/github/example2.png" width="49%">
+</p>
+<p float="left">
+    <image src="assets/github/example3.png" width="49%">
+    <image src="assets/github/example4.png" width="49%">
+</p>
